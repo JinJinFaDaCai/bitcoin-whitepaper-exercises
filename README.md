@@ -7,3 +7,11 @@ In these exercises, you will learn about blockchains from the perspective of the
 * [Wallet](wallet/README.md)
 * [Proof of Work](pow/README.md)
 * [Incentives](incentives/README.md)
+
+git clone https://github.com/cooganb/bitcoin-whitepaper-exercises
+create new fork
+make changes
+git add README.md
+git commit -m "emmatest"
+git remote add myrepobitcoin https://github.com/JinJinFaDaCai/bitcoin-whitepaper-exercises
+git push -u myrepobitcoin master
